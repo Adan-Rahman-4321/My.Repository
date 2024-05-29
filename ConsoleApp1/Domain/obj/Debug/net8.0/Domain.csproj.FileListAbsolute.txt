@@ -1,0 +1,11 @@
+D:\WorkSpace DontNet C#\Use Case Genaric\ConsoleApp1\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\WorkSpace DontNet C#\Use Case Genaric\ConsoleApp1\Domain\bin\Debug\net8.0\Domain.dll
+D:\WorkSpace DontNet C#\Use Case Genaric\ConsoleApp1\Domain\bin\Debug\net8.0\Domain.pdb
+D:\WorkSpace DontNet C#\Use Case Genaric\ConsoleApp1\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace DontNet C#\Use Case Genaric\ConsoleApp1\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\WorkSpace DontNet C#\Use Case Genaric\ConsoleApp1\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\WorkSpace DontNet C#\Use Case Genaric\ConsoleApp1\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\WorkSpace DontNet C#\Use Case Genaric\ConsoleApp1\Domain\obj\Debug\net8.0\Domain.dll
+D:\WorkSpace DontNet C#\Use Case Genaric\ConsoleApp1\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\WorkSpace DontNet C#\Use Case Genaric\ConsoleApp1\Domain\obj\Debug\net8.0\Domain.pdb
+D:\WorkSpace DontNet C#\Use Case Genaric\ConsoleApp1\Domain\obj\Debug\net8.0\ref\Domain.dll
